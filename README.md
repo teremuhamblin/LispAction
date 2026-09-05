@@ -55,5 +55,3 @@ ET D’ABSENCE DE CONTREFAÇON.
 ```text
 Pour plus d’informations : https://unlicense.org
 ```
-`
-
