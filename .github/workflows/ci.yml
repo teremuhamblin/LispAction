@@ -1,9 +1,4 @@
-```text
-🛡️ `.github/workflows/ci.yml`
-CI avec ***SBCL***
-```
-
-name: CI-LispAction
+name: lispaction
 
 on:
   push:
