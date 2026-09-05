@@ -1,4 +1,4 @@
-(asdf:defsystem "LispAction"
+(asdf:defsystem "lispaction"
   :description "Mini interpréteur Lisp."
   :author "teremuhamblin"
   :license "The Unlicense"
