@@ -14,6 +14,9 @@ LispAction/
 ├── tests/
 │   └── test-core.lisp
 ├── lispaction.asd
+├── test.asd
+├── ROADMAP.md
+├── CHANGELOG.md 
 ├── README.md
 ├── LICENSE
 └── .github/
