@@ -1,0 +1,37 @@
+# Compilations Common Lisp
+*.fasl
+*.ufasl
+*.cfasl
+*.lib
+*.dx64fsl
+*.dx32fsl
+
+# SBCL
+*.sbclrc
+
+# Quicklisp
+quicklisp/
+local-projects/
+
+# ASDF
+*.asd.bak
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Tests
+coverage/
