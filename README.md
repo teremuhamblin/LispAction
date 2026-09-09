@@ -4,6 +4,9 @@
 - pensé pour la simplicité et la clarté.
 
 ### Structure de base du projet
+
+[![pages-build-deployment](https://github.com/teremuhamblin/LispAction/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/teremuhamblin/LispAction/actions/workflows/pages/pages-build-deployment)
+
 📦 Architecture 
 ```text
 LispAction/
