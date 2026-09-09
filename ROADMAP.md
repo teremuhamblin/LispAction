@@ -1,5 +1,5 @@
-# 🛣️ ROADMAP — LispAction
-
+###### 🛣️ ROADMAP
+# LispAction
 ## 🎯 Objectif global
 Construire un mini‑interpréteur Lisp modulaire, testable, extensible.
 
@@ -14,9 +14,9 @@ Construire un mini‑interpréteur Lisp modulaire, testable, extensible.
 ---
 
 ## 🟦 v0.2.0 — Parsing avancé
-- [ ] Ajout d’un tokenizer complet
-- [ ] Gestion des erreurs de parsing
-- [ ] Tests unitaires dédiés
+- [x] Ajout d’un tokenizer complet
+- [x] Gestion des erreurs de parsing
+- [x] Tests unitaires dédiés
 
 ---
 
